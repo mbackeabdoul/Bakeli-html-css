@@ -32,14 +32,12 @@ h1,h3{
 }
 .dkh img{
     width: 150px;
-    /* object-fit:cover; */
+    
 
 } 
 
 
-/* #km{
-    width: 80px;
-} */
+
 button{
     padding: 10px;
     background-color: black;
